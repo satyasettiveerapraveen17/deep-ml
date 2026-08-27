@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T05:23:50.024Z",
+  "generated_at": "2026-10-12T05:23:51.808Z",
   "items": {
     "problem:313": {
       "kind": "problem",
@@ -448,6 +448,65 @@
       "last_pushed_at": "2026-08-23T12:33:00.922Z",
       "language": "python",
       "lines": 22
+    },
+    "math:9": {
+      "kind": "math",
+      "id": "9",
+      "title": "Matrix Basics",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/9",
+      "path": "math/0009-matrix-basics",
+      "first_solved_at": "2026-08-27T09:06:47.449Z",
+      "last_pushed_at": "2026-08-27T09:06:47.449Z"
+    },
+    "math:10": {
+      "kind": "math",
+      "id": "10",
+      "title": "Matrix Multiplication",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/10",
+      "path": "math/0010-matrix-multiplication",
+      "first_solved_at": "2026-08-27T09:24:12.051Z",
+      "last_pushed_at": "2026-08-27T09:24:12.051Z"
+    },
+    "math:8": {
+      "kind": "math",
+      "id": "8",
+      "title": "Vector Norms and Linear Independence",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/8",
+      "path": "math/0008-vector-norms-and-linear-independence",
+      "first_solved_at": "2026-08-27T10:42:13.859Z",
+      "last_pushed_at": "2026-08-27T10:42:13.859Z"
+    },
+    "problem:328": {
+      "kind": "problem",
+      "id": "328",
+      "title": "Vector Norms (L1/L2/L-inf) and the Frobenius Norm",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/328",
+      "path": "problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm",
+      "first_solved_at": "2026-08-27T11:58:16.627Z",
+      "last_pushed_at": "2026-08-27T11:58:16.627Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-08-27T12:38:03.905Z",
+      "last_pushed_at": "2026-08-27T12:38:03.905Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
