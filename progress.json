@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T05:23:51.808Z",
+  "generated_at": "2026-10-12T05:23:53.575Z",
   "items": {
     "problem:313": {
       "kind": "problem",
@@ -507,6 +507,54 @@
       "last_pushed_at": "2026-08-27T12:38:03.905Z",
       "language": "python",
       "lines": 13
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-08-28T09:08:18.871Z",
+      "last_pushed_at": "2026-08-28T09:08:18.871Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-08-28T10:16:16.514Z",
+      "last_pushed_at": "2026-08-28T10:16:16.514Z"
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-08-28T11:37:37.606Z",
+      "last_pushed_at": "2026-08-28T11:37:37.606Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:312": {
+      "kind": "problem",
+      "id": "312",
+      "title": "Quotient Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/312",
+      "path": "problems/0312-quotient-rule-for-derivatives",
+      "first_solved_at": "2026-08-28T12:10:03.172Z",
+      "last_pushed_at": "2026-08-28T12:10:03.172Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
