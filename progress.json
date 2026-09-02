@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T05:23:56.102Z",
+  "generated_at": "2026-10-12T05:23:57.935Z",
   "items": {
     "problem:313": {
       "kind": "problem",
@@ -627,6 +627,89 @@
       "last_pushed_at": "2026-09-01T17:07:55.002Z",
       "language": "python",
       "lines": 48
+    },
+    "problem:179": {
+      "kind": "problem",
+      "id": "179",
+      "title": "Expected Value and Variance of an n-Sided Die",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/179",
+      "path": "problems/0179-expected-value-and-variance-of-an-n-sided-die",
+      "first_solved_at": "2026-09-02T05:27:17.637Z",
+      "last_pushed_at": "2026-09-02T05:27:17.637Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:184": {
+      "kind": "problem",
+      "id": "184",
+      "title": "Empirical Probability Mass Function (PMF)",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/184",
+      "path": "problems/0184-empirical-probability-mass-function-pmf",
+      "first_solved_at": "2026-09-02T07:21:41.482Z",
+      "last_pushed_at": "2026-09-02T07:21:41.482Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-09-02T08:09:28.716Z",
+      "last_pushed_at": "2026-09-02T08:09:28.716Z",
+      "language": "python",
+      "lines": 8
+    },
+    "math:11": {
+      "kind": "math",
+      "id": "11",
+      "title": "Determinants and Trace",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/11",
+      "path": "math/0011-determinants-and-trace",
+      "first_solved_at": "2026-09-02T09:07:33.114Z",
+      "last_pushed_at": "2026-09-02T09:07:33.114Z"
+    },
+    "math:12": {
+      "kind": "math",
+      "id": "12",
+      "title": "Inverse and Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/12",
+      "path": "math/0012-inverse-and-rank",
+      "first_solved_at": "2026-09-02T10:37:02.394Z",
+      "last_pushed_at": "2026-09-02T10:37:02.394Z"
+    },
+    "math:13": {
+      "kind": "math",
+      "id": "13",
+      "title": "Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/13",
+      "path": "math/0013-solving-linear-systems",
+      "first_solved_at": "2026-09-02T11:37:54.326Z",
+      "last_pushed_at": "2026-09-02T11:37:54.326Z"
+    },
+    "math:14": {
+      "kind": "math",
+      "id": "14",
+      "title": "Orthogonality and Projections",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/14",
+      "path": "math/0014-orthogonality-and-projections",
+      "first_solved_at": "2026-09-02T16:07:54.065Z",
+      "last_pushed_at": "2026-09-02T16:07:54.065Z"
     }
   }
 }
