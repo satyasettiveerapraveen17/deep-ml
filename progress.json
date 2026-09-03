@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T05:23:57.935Z",
+  "generated_at": "2026-10-12T05:23:59.670Z",
   "items": {
     "problem:313": {
       "kind": "problem",
@@ -710,6 +710,41 @@
       "path": "math/0014-orthogonality-and-projections",
       "first_solved_at": "2026-09-02T16:07:54.065Z",
       "last_pushed_at": "2026-09-02T16:07:54.065Z"
+    },
+    "math:17": {
+      "kind": "math",
+      "id": "17",
+      "title": "Covariance and Correlation",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/17",
+      "path": "math/0017-covariance-and-correlation",
+      "first_solved_at": "2026-09-03T16:15:01.350Z",
+      "last_pushed_at": "2026-09-03T16:15:01.350Z"
+    },
+    "problem:195": {
+      "kind": "problem",
+      "id": "195",
+      "title": "Matrix Determinant & Trace",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/195",
+      "path": "problems/0195-matrix-determinant-trace",
+      "first_solved_at": "2026-09-03T16:23:09.247Z",
+      "last_pushed_at": "2026-09-03T16:23:09.247Z",
+      "language": "python",
+      "lines": 14
+    },
+    "math:34": {
+      "kind": "math",
+      "id": "34",
+      "title": "Least Squares and the Normal Equations",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/34",
+      "path": "math/0034-least-squares-and-the-normal-equations",
+      "first_solved_at": "2026-09-03T18:16:44.561Z",
+      "last_pushed_at": "2026-09-03T18:16:44.561Z"
     }
   }
 }
