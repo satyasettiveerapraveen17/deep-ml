@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T05:24:05.012Z",
+  "generated_at": "2026-10-12T05:24:06.617Z",
   "items": {
     "problem:313": {
       "kind": "problem",
@@ -806,6 +806,52 @@
       "path": "math/0035-matrix-calculus-identities",
       "first_solved_at": "2026-09-06T12:04:31.585Z",
       "last_pushed_at": "2026-09-06T12:04:31.585Z"
+    },
+    "math:3": {
+      "kind": "math",
+      "id": "3",
+      "title": "Neural Network Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/3",
+      "path": "math/0003-neural-network-derivatives",
+      "first_solved_at": "2026-09-07T10:47:38.415Z",
+      "last_pushed_at": "2026-09-07T10:47:38.415Z"
+    },
+    "math:4": {
+      "kind": "math",
+      "id": "4",
+      "title": "Backpropagation and the Chain Rule",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/4",
+      "path": "math/0004-backpropagation-and-the-chain-rule",
+      "first_solved_at": "2026-09-07T12:11:44.693Z",
+      "last_pushed_at": "2026-09-07T12:11:44.693Z"
+    },
+    "math:32": {
+      "kind": "math",
+      "id": "32",
+      "title": "Softmax and Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/32",
+      "path": "math/0032-softmax-and-cross-entropy",
+      "first_solved_at": "2026-09-07T15:33:36.596Z",
+      "last_pushed_at": "2026-09-07T15:33:36.596Z"
+    },
+    "problem:215": {
+      "kind": "problem",
+      "id": "215",
+      "title": "Partial Derivatives of Multivariable Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/215",
+      "path": "problems/0215-partial-derivatives-of-multivariable-functions",
+      "first_solved_at": "2026-09-07T16:25:00.475Z",
+      "last_pushed_at": "2026-09-07T16:25:00.475Z",
+      "language": "python",
+      "lines": 49
     }
   }
 }
