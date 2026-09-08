@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T05:24:06.617Z",
+  "generated_at": "2026-10-12T05:24:08.265Z",
   "items": {
     "problem:313": {
       "kind": "problem",
@@ -852,6 +852,32 @@
       "last_pushed_at": "2026-09-07T16:25:00.475Z",
       "language": "python",
       "lines": 49
+    },
+    "problem:214": {
+      "kind": "problem",
+      "id": "214",
+      "title": "Chain Rule for Composite Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/214",
+      "path": "problems/0214-chain-rule-for-composite-functions",
+      "first_solved_at": "2026-09-08T08:45:19.463Z",
+      "last_pushed_at": "2026-09-08T08:45:19.463Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:202": {
+      "kind": "problem",
+      "id": "202",
+      "title": "Jacobian Matrix Calculation",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/202",
+      "path": "problems/0202-jacobian-matrix-calculation",
+      "first_solved_at": "2026-09-08T12:09:00.281Z",
+      "last_pushed_at": "2026-09-08T12:09:00.281Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
