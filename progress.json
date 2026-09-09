@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T05:24:08.265Z",
+  "generated_at": "2026-10-12T05:24:10.589Z",
   "items": {
     "problem:313": {
       "kind": "problem",
@@ -878,6 +878,58 @@
       "last_pushed_at": "2026-09-08T12:09:00.281Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:217": {
+      "kind": "problem",
+      "id": "217",
+      "title": "Derivatives of Activation Functions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/217",
+      "path": "problems/0217-derivatives-of-activation-functions",
+      "first_solved_at": "2026-09-09T08:55:03.146Z",
+      "last_pushed_at": "2026-09-09T08:55:03.146Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:219": {
+      "kind": "problem",
+      "id": "219",
+      "title": "Derivative of Softmax",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/219",
+      "path": "problems/0219-derivative-of-softmax",
+      "first_solved_at": "2026-09-09T09:19:04.768Z",
+      "last_pushed_at": "2026-09-09T09:19:04.768Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:220": {
+      "kind": "problem",
+      "id": "220",
+      "title": "Derivative of Cross-Entropy Loss w.r.t. Logits",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/220",
+      "path": "problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits",
+      "first_solved_at": "2026-09-09T09:37:55.475Z",
+      "last_pushed_at": "2026-09-09T09:37:55.475Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:25": {
+      "kind": "problem",
+      "id": "25",
+      "title": "Single Neuron with Backpropagation",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/25",
+      "path": "problems/0025-single-neuron-with-backpropagation",
+      "first_solved_at": "2026-09-09T15:57:31.499Z",
+      "last_pushed_at": "2026-09-09T15:57:31.499Z",
+      "language": "python",
+      "lines": 60
     }
   }
 }
