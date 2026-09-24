@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**5** solved · 1 problems · 0 labs · 4 math
+**6** solved · 2 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Calculate Conditional Probability from Data](https://www.deep-ml.com/problems/168) | easy | 2026-09-24 | [solution](problems/0168-calculate-conditional-probability-from-data) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-09-21 | [solution](problems/0313-numerical-gradient-checking) |
 
 ## Math
