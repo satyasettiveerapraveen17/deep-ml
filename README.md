@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**7** solved · 3 problems · 0 labs · 4 math
+**8** solved · 4 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Calculate Conditional Probability from Data](https://www.deep-ml.com/problems/168) | easy | 2026-09-24 | [solution](problems/0168-calculate-conditional-probability-from-data) |
+| [Compute Posterior Probability using Bayes' Theorem](https://www.deep-ml.com/problems/336) | easy | 2026-09-25 | [solution](problems/0336-compute-posterior-probability-using-bayes-theorem) |
 | [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2026-09-24 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-09-21 | [solution](problems/0313-numerical-gradient-checking) |
 
