@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T09:17:23.209Z",
+  "generated_at": "2026-09-25T09:25:56.411Z",
   "items": {
     "problem:313": {
       "kind": "problem",
@@ -94,6 +94,19 @@
       "path": "problems/0336-compute-posterior-probability-using-bayes-theorem",
       "first_solved_at": "2026-09-25T09:17:22.542Z",
       "last_pushed_at": "2026-09-25T09:17:22.542Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:80": {
+      "kind": "problem",
+      "id": "80",
+      "title": "Normal Distribution PDF Calculator",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/80",
+      "path": "problems/0080-normal-distribution-pdf-calculator",
+      "first_solved_at": "2026-09-25T09:25:55.582Z",
+      "last_pushed_at": "2026-09-25T09:25:55.582Z",
       "language": "python",
       "lines": 15
     }
