@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T09:33:45.556Z",
+  "generated_at": "2026-09-28T08:44:48.165Z",
   "items": {
     "problem:313": {
       "kind": "problem",
@@ -184,7 +184,7 @@
       "url": "https://www.deep-ml.com/problems/182",
       "path": "problems/0182-central-limit-theorem-simulation",
       "first_solved_at": "2026-09-26T09:16:19.039Z",
-      "last_pushed_at": "2026-09-26T09:16:19.039Z",
+      "last_pushed_at": "2026-09-28T08:44:47.492Z",
       "language": "python",
       "lines": 49
     },

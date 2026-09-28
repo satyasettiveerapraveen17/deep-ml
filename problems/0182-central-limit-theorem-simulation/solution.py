@@ -44,5 +44,5 @@ def simulate_clt(distribution: str, n: int, runs: int = 10000, seed: int = 42) -
     # 4. Return the mean and population standard deviation (ddof=0) of the Z-scores
     return {
         'mean': float(np.mean(z_scores)),
-        'std': float(np.std(z_scores, ddof=0))
+        'std': float(np.std(z_scores, ddof=1))
     }
