@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**21** solved · 13 problems · 0 labs · 8 math
+**22** solved · 14 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-09-25 | [solution](problems/0079-binomial-distribution-probability) |
 | [Central Limit Theorem Simulation](https://www.deep-ml.com/problems/182) | medium | 2026-09-26 | [solution](problems/0182-central-limit-theorem-simulation) |
 | [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2026-09-24 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
+| [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-10-02 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-09-25 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-09-21 | [solution](problems/0313-numerical-gradient-checking) |
 
