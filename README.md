@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**25** solved · 17 problems · 0 labs · 8 math
+**26** solved · 17 problems · 0 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -39,6 +39,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Law of Large Numbers and Central Limit Theorem](https://www.deep-ml.com/math-problems/23) | medium | 2026-09-24 | [solution](math/0023-law-of-large-numbers-and-central-limit-theorem) |
 | [Multivariate Gaussians](https://www.deep-ml.com/math-problems/36) | medium | 2026-09-24 | [solution](math/0036-multivariate-gaussians) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-09-30 | [solution](math/0006-optimization-convexity-and-critical-points) |
+| [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-10-05 | [solution](math/0031-regularization-and-generalization) |
 | [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-09-29 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-09-30 | [solution](math/0016-eigendecomposition-and-svd) |
 | [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-10-01 | [solution](math/0015-matrix-decompositions-lu-and-qr) |
