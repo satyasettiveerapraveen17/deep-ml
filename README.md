@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**26** solved · 17 problems · 0 labs · 9 math
+**27** solved · 18 problems · 0 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-09-25 | [solution](problems/0121-vector-element-wise-sum) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-09-25 | [solution](problems/0079-binomial-distribution-probability) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-10-02 | [solution](problems/0037-calculate-correlation-matrix) |
+| [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-05 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Central Limit Theorem Simulation](https://www.deep-ml.com/problems/182) | medium | 2026-09-26 | [solution](problems/0182-central-limit-theorem-simulation) |
 | [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2026-09-24 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-10-02 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
