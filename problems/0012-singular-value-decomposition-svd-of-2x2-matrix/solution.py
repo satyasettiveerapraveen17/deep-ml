@@ -27,8 +27,7 @@ def svd_2x2_singular_values(A: np.ndarray) -> tuple:
 
     # for direction alignment
     for i in range(len(S)):
-        if S[i] > 1e-12:
-            if np.dot(U[:, i], A @ V[:, i]) < 0:
+        if S[i] > 1e-12 and np.dot(U[:, i], A @ V[:, i]) < 0:
                 U[:, i] *= -1
 
     Vt = V.T
