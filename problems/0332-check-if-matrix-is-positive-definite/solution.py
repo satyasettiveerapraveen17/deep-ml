@@ -12,7 +12,7 @@ def check_positive_definite(matrix: list) -> dict:
     """
     matrix = np.array(matrix)
     
-    # 1. Ensure the matrix is square
+    # 1. Ensure the matrix is square and 2D
     if matrix.ndim != 2 or matrix.shape[0] != matrix.shape[1]:
         return {"is_positive_definite": False, "eigenvalues": []}
     
