@@ -18,10 +18,8 @@ def qr_decomposition(A: list[list[float]]) -> tuple[list[list[float]], list[list
     R = np.zeros((n, n))
 
     for j in range(n):
-        # Fix 2 & 4: Grab the j-th column and use .copy()
         v = A[:, j].copy()
         
-        # Fix 3: Add the missing 'in' keyword
         for i in range(j):
             R[i, j] = np.dot(Q[:, i], A[:, j])
             v = v - R[i, j] * Q[:, i]
