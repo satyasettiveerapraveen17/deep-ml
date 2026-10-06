@@ -13,7 +13,6 @@ def qr_decomposition(A: list[list[float]]) -> tuple[list[list[float]], list[list
     A = np.array(A, dtype=float)
     m, n = A.shape
 
-    # Fix 1: Pass shape as a tuple
     Q = np.zeros((m, n))
     R = np.zeros((n, n))
 
