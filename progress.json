@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T05:24:14.019Z",
+  "generated_at": "2026-10-13T11:02:30.277Z",
   "items": {
     "problem:313": {
       "kind": "problem",
@@ -941,6 +941,17 @@
       "path": "math/0020-bayes-theorem",
       "first_solved_at": "2026-09-11T13:01:24.225Z",
       "last_pushed_at": "2026-10-12T05:24:14.017Z"
+    },
+    "math:24": {
+      "kind": "math",
+      "id": "24",
+      "title": "Information Theory: Entropy",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/24",
+      "path": "math/0024-information-theory-entropy",
+      "first_solved_at": "2026-10-13T11:02:20.354Z",
+      "last_pushed_at": "2026-10-13T11:02:20.354Z"
     }
   }
 }
