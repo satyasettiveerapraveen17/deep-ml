@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:50:56.901Z",
+  "generated_at": "2026-10-24T15:52:43.758Z",
   "items": {
     "problem:313": {
       "kind": "problem",
@@ -962,9 +962,9 @@
       "url": "https://www.deep-ml.com/problems/334",
       "path": "problems/0334-cholesky-decomposition",
       "first_solved_at": "2026-10-24T15:50:51.630Z",
-      "last_pushed_at": "2026-10-24T15:50:51.630Z",
+      "last_pushed_at": "2026-10-24T15:52:42.224Z",
       "language": "python",
-      "lines": 31
+      "lines": 30
     }
   }
 }
