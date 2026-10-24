@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:52:43.758Z",
+  "generated_at": "2026-10-24T15:56:42.574Z",
   "items": {
     "problem:313": {
       "kind": "problem",
@@ -369,9 +369,9 @@
       "url": "https://www.deep-ml.com/problems/201",
       "path": "problems/0201-qr-decomposition",
       "first_solved_at": "2026-10-06T17:01:37.114Z",
-      "last_pushed_at": "2026-10-12T05:23:26.484Z",
+      "last_pushed_at": "2026-10-24T15:56:41.230Z",
       "language": "python",
-      "lines": 20
+      "lines": 42
     },
     "problem:333": {
       "kind": "problem",
