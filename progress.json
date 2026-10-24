@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T11:02:30.277Z",
+  "generated_at": "2026-10-24T15:50:56.901Z",
   "items": {
     "problem:313": {
       "kind": "problem",
@@ -952,6 +952,19 @@
       "path": "math/0024-information-theory-entropy",
       "first_solved_at": "2026-10-13T11:02:20.354Z",
       "last_pushed_at": "2026-10-13T11:02:20.354Z"
+    },
+    "problem:334": {
+      "kind": "problem",
+      "id": "334",
+      "title": "Cholesky Decomposition",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/334",
+      "path": "problems/0334-cholesky-decomposition",
+      "first_solved_at": "2026-10-24T15:50:51.630Z",
+      "last_pushed_at": "2026-10-24T15:50:51.630Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
