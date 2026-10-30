@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T09:28:30.362Z",
+  "generated_at": "2026-10-30T02:05:43.511Z",
   "items": {
     "problem:313": {
       "kind": "problem",
@@ -975,7 +975,7 @@
       "url": "https://www.deep-ml.com/math-problems/25",
       "path": "math/0025-kl-divergence",
       "first_solved_at": "2026-10-24T16:01:46.695Z",
-      "last_pushed_at": "2026-10-24T16:01:46.695Z"
+      "last_pushed_at": "2026-10-30T02:05:42.353Z"
     },
     "math:26": {
       "kind": "math",
